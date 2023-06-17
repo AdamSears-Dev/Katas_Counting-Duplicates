@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFQeu+Pd4DZG1Z7vXh3RrKSGlZsOEVGpA6aSZ6pqR0che5HNhrrLbODN2gJgIwHSJiIbjxwqSh+PWLjCh4HHaQ==",
+  "success": true,
+  "projectFilePath": "/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/Counting Duplicates.csproj",
+  "expectedPackageFiles": [
+    "/Users/adamsears/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

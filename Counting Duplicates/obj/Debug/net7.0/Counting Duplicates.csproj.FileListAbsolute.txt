@@ -1,0 +1,17 @@
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.csproj.AssemblyReference.cache
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.AssemblyInfoInputs.cache
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.AssemblyInfo.cs
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.csproj.CoreCompileInputs.cache
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/bin/Debug/net7.0/Counting Duplicates
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/bin/Debug/net7.0/Counting Duplicates.deps.json
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/bin/Debug/net7.0/Counting Duplicates.runtimeconfig.json
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/bin/Debug/net7.0/Counting Duplicates.dll
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/bin/Debug/net7.0/Counting Duplicates.pdb
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/bin/Debug/net7.0/nunit.framework.dll
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.csproj.CopyComplete
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.dll
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/refint/Counting Duplicates.dll
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.pdb
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/Counting Duplicates.genruntimeconfig.cache
+/Users/adamsears/Projects/Counting Duplicates/Counting Duplicates/obj/Debug/net7.0/ref/Counting Duplicates.dll
